@@ -52,8 +52,8 @@ document-theme-chatbot/
 ### 1. Clone the Project
 
 ```bash
-git clone https://github.com/yourname/document-theme-chatbot.git
-cd document-theme-chatbot
+git clone https://github.com/ashish739293/chatbot_theme_identifier.git
+cd chatbot_theme_identifier
 ```
 
 ---
