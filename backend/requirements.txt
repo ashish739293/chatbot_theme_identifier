@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pytesseract
+pdf2image
+PyPDF2
+chromadb
+sentence-transformers
+requests
+python-multipart
